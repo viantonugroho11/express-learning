@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/viantonugroho11/express-learning/issues"
   },
-  "homepage": "https://github.com/viantonugroho11/express-learning#readme"
+  "homepage": "https://github.com/viantonugroho11/express-learning#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
 }
