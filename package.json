@@ -1,0 +1,22 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "belajar expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viantonugroho11/express-learning.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "viantonugroho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viantonugroho11/express-learning/issues"
+  },
+  "homepage": "https://github.com/viantonugroho11/express-learning#readme"
+}
